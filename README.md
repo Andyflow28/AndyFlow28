@@ -1,8 +1,10 @@
-### Hi there 👋
+## I'm Andres Flores 
+## Frontend Developer 👨‍💻
 
-![alt text](https://raw.githubusercontent.com/AndyFlow28/AndyFlow28/main/header.png)
+![Header.png](https://raw.githubusercontent.com/AndyFlow28/AndyFlow28/main/header.png)
 
-
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/andresjfloresg/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:joseguerreroaf@gmail.com)
 <!--
 **Andyflow28/AndyFlow28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
