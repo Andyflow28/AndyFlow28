@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='center' src="https://media.giphy.com/AndyFlow28/AndyFlow28/main/header.png" width="230">
+![alt text](https://raw.githubusercontent.com/AndyFlow28/AndyFlow28/main/header.png)
 
 
 <!--
