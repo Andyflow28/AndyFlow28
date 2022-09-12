@@ -22,7 +22,7 @@ const AndyFlow28 = {
     architecture: ["Single page applications"],
 }
 ```
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=AndyFlow28)](https://github.com/anuraghazra/github-readme-stats)
+![AndyFlow28 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyFlow28&hide=contribs,prs)
 
 ---
 ⭐️ From [@AndyFlow28](https://github.com/AndyFlow28)
