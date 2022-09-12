@@ -23,5 +23,9 @@ const AndyFlow28 = {
 }
 ```
 
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+</p>
+
 ---
 ⭐️ From [@AndyFlow28](https://github.com/AndyFlow28)
