@@ -1,7 +1,7 @@
 ## I'm Andres Flores 
 ## Frontend Developer 👨‍💻
 
-![Header.png](https://raw.githubusercontent.com/AndyFlow28/AndyFlow28/main/header.png)
+
 
 [![](https://img.shields.io/badge/LinkedIn-Andres_J._Flores_G.-blue)](https://www.linkedin.com/in/andresjfloresg/)
 [![](https://img.shields.io/badge/Gmail-joseguerreroaf@gmail.com-red)](mailto:joseguerreroaf@gmail.com)
